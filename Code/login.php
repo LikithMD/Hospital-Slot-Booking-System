@@ -17,8 +17,7 @@ input[type=submit],button {
         padding: 15px; 
         margin: 10px 0px; 
         border: none; 
-        cursor: pointer; 
-        
+        cursor: pointer;       
          } 
 .container {
       padding: 30px;
