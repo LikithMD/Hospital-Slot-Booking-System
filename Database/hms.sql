@@ -387,7 +387,6 @@ INSERT INTO `feedback` (`fno`, `Dno`, `pno`, `rate`, `feed`) VALUES
 (16, 10003, 9876678998766789, 2, '                ghdggdgd');
 
 -- --------------------------------------------------------
-
 --
 -- Table structure for table `regtab`
 --
