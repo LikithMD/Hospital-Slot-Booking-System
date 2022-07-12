@@ -23,4 +23,4 @@ Credentials of doctor:
 Credentials of admin:
 
  1)aadhar number:1234123412341234
-   password:srikar@root
+   password:md@root
